@@ -1,4 +1,4 @@
-1. Nama   : Aco Wahyudi
+1. Nama   : Alvin Mubarok
    NIM    : H2020000001
    JK     : Laki - Laki
    Agama  : Islam
@@ -22,7 +22,7 @@
 4. Nama   : Ilham ILyas
    NIM    : H2020000004
    JK     : Laki - Laki
-   Agama  : Islam
+   Agama  : Budha
    TTL    : Pinrang, 10 Maret 2003
    Alamat : Jln. Mangkupalas RT.07 No.12
  
